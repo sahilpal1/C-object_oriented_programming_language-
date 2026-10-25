@@ -1,0 +1,1 @@
+   // map<string,int>m2{{"ajit",34},{"amit",35},{"neha",90}};   // method 2
